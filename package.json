@@ -14,7 +14,7 @@
     "@ckeditor/strapi-plugin-ckeditor": "^0.0.11",
     "@strapi/plugin-cloud": "4.25.1",
     "@strapi/plugin-graphql": "4.25.1",
-    "@strapi/plugin-i18n": "4.24.5",
+    "@strapi/plugin-i18n": "4.25.1",
     "@strapi/plugin-users-permissions": "4.25.1",
     "@strapi/strapi": "4.25.1",
     "@types/jsdom": "^21.1.7",
