@@ -13,7 +13,7 @@
     "@ckeditor/strapi-plugin-ckeditor": "^1.0.2",
     "@strapi/plugin-cloud": "5.0.3",
     "@strapi/plugin-graphql": "^5.0.3",
-    "@strapi/plugin-users-permissions": "5.0.3",
+    "@strapi/plugin-users-permissions": "5.1.0",
     "@strapi/strapi": "5.0.3",
     "jsdom": "^25.0.1",
     "pg": "8.13.0",
