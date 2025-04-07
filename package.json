@@ -24,7 +24,7 @@
 		"slugify": "^1.6.6",
 		"strapi-plugin-email-designer-5": "^0.0.7",
 		"stripe": "^17.6.0",
-		"styled-components": "^6.1.14"
+		"styled-components": "^6.1.17"
 	},
 	"devDependencies": {
 		"@types/node": "^22.13.9",
