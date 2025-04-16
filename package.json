@@ -15,7 +15,7 @@
 		"@strapi/plugin-graphql": "^5.10.4",
 		"@strapi/plugin-users-permissions": "5.10.4",
 		"@strapi/provider-email-nodemailer": "^5.10.2",
-		"@strapi/strapi": "5.10.4",
+		"@strapi/strapi": "5.12.5",
 		"jsdom": "^26.0.0",
 		"pg": "8.13.3",
 		"react": "^18.0.0",
